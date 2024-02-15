@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1707590470 source:c:\users\dorian\documents\codecblocks projects\curso de c\38 - libreriaspropias\main.c
+	<stdio.h>
+	"lib.h"
+
+1707590993 c:\users\dorian\documents\codecblocks projects\curso de c\38 - libreriaspropias\lib.h
+	<stdio.h>
+
+1707590559 source:c:\users\dorian\documents\codecblocks projects\curso de c\38 - libreriaspropias\lib.c
+	"lib.h"
+

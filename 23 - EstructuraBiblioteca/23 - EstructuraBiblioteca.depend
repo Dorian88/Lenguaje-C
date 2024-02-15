@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1707253071 source:c:\users\dorian\documents\codecblocks projects\curso de c\23 - estructurabiblioteca\main.c
+	<stdio.h>
+	<string.h>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1707588000 source:c:\users\dorian\documents\codecblocks projects\curso de c\37 - modularidad\prueba.c
+	"prueba.h"
+
+1707587685 c:\users\dorian\documents\codecblocks projects\curso de c\37 - modularidad\prueba.h
+
+1707588033 source:c:\users\dorian\documents\codecblocks projects\curso de c\37 - modularidad\main.c
+	<stdio.h>
+	"prueba.h"
+

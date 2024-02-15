@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1707414855 source:c:\users\dorian\documents\codecblocks projects\curso de c\31 - estructurasdinamicasbatallas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

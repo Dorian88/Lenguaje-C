@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1707860427 source:c:\users\dorian\documents\codecblocks projects\curso de c\40 - juegos\02 - pong\main.c
+	<stdio.h>
+	<windows.h>
+

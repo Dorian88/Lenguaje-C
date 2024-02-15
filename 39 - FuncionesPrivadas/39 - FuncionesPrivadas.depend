@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1707595460 source:c:\users\dorian\documents\codecblocks projects\curso de c\39 - funcionesprivadas\graficos.c
+	"graficos.h"
+
+1707595589 c:\users\dorian\documents\codecblocks projects\curso de c\39 - funcionesprivadas\graficos.h
+	<stdio.h>
+
+1707595673 source:c:\users\dorian\documents\codecblocks projects\curso de c\39 - funcionesprivadas\main.c
+	<stdio.h>
+	"graficos.h"
+
